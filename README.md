@@ -61,7 +61,7 @@ De lo contrario no tendria ningun descuento en la compra que realice la distribu
 ![Diagrama de flujo](diagrama_flujo.png)
 <br>
 <br>
-
+Definición de variables
 ![Diagrama de flujo](pseint1.png)
 <br>
 <br>

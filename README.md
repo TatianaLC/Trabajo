@@ -62,10 +62,14 @@ De lo contrario no tendria ningun descuento en la compra que realice la distribu
 <br>
 <br>
 Definición de variables
+<br>
 Dar bienevenida y indicar si es usuario individual o distribuidora
 ![Diagrama de flujo](pseint1.png)
 <br>
 <br>
+Si usuario es distribuidoar, digitar datos de la distribuidora, se muestra menú de invenario de libros
+<br>
+se pregunta ¿Qué referencia de libro desea y cuantos libros desea comprar de esa referencia?
 ![Diagrama de flujo](pseint2.png)
 <br>
 <br>

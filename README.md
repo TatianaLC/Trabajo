@@ -62,6 +62,7 @@ De lo contrario no tendria ningun descuento en la compra que realice la distribu
 <br>
 <br>
 Definición de variables
+Dar bienevenida y indicar si es usuario individual o distribuidora
 ![Diagrama de flujo](pseint1.png)
 <br>
 <br>

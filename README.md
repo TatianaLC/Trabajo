@@ -89,6 +89,8 @@ se genera factura
 ![Diagrama de flujo](pseint5.png)
 <br>
 <br>
+
+Se pregunta si desea comprar otro libro si indica que si se devolvera a dar la bienvenida el programa y si no se cerrara
 ![Diagrama de flujo](pseint6.png)
 <br>
 <br>

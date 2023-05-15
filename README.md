@@ -67,7 +67,7 @@ Dar bienevenida y indicar si es usuario individual o distribuidora
 ![Diagrama de flujo](pseint1.png)
 <br>
 <br>
-Si usuario es distribuidoar, digitar datos de la distribuidora, se muestra menú de invenario de libros
+Si usuario es distribuidora, digitar datos de la distribuidora, se muestra menú de invenario de libros
 <br>
 se pregunta ¿Qué referencia de libro desea y cuantos libros desea comprar de esa referencia?
 <br>
@@ -82,7 +82,7 @@ Si es usuario individual, digitar datos de usuario, se muestra menú de invenari
 <br>
 se pregunta ¿Qué referencia de libro desea y cuantos libros desea comprar de esa referencia?
 <br>
-se genera factura
+se genera factura indicando porcentajes segun compra
 ![Diagrama de flujo](pseint4.png)
 <br>
 <br>

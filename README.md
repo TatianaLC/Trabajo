@@ -7,7 +7,12 @@
   - [5. Pseudocódigo](#5-Pseudocódigo)
 
 
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 # 1.EJERCICIO BASE
 
@@ -25,7 +30,10 @@ De lo contrario no tendria ningun descuento en la compra que realice la distribu
 *Si la compra es mayor a 15 libros tendra un 15% de descuento.
 
 
-
+<br>
+<br>
+<br>
+<br>
 
 ## 2.HISTORIA DE USUARIO
 
@@ -36,17 +44,26 @@ De lo contrario no tendria ningun descuento en la compra que realice la distribu
 
 ![Historia de usuario](HISTORIAL_usuario3.PNG)
 
-
+<br>
+<br>
+<br>
+<br>
 
 ## 3.CASO DE USO
 ![Caso de uso](Caso_de_uso.PNG)
 
-
+<br>
+<br>
+<br>
+<br>
 
 ## 4.DIAGRAMA DE FLUJO
 ![Caso de uso](diagrama_flujo.png)
 
-
+<br>
+<br>
+<br>
+<br>
 
 ## 5. SEUDOCÒDIGO
 

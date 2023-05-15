@@ -58,8 +58,26 @@ De lo contrario no tendria ningun descuento en la compra que realice la distribu
 <br>
 
 ## 4.DIAGRAMA DE FLUJO
-![Caso de uso](diagrama_flujo.png)
+![Diagrama de flujo](diagrama_flujo.png)
+<br>
+<br>
 
+![Diagrama de flujo](pseint1.png)
+<br>
+<br>
+![Diagrama de flujo](pseint2.png)
+<br>
+<br>
+![Diagrama de flujo](pseint3.png)
+<br>
+<br>
+![Diagrama de flujo](pseint4.png)
+<br>
+<br>
+![Diagrama de flujo](pseint5.png)
+<br>
+<br>
+![Diagrama de flujo](pseint6.png)
 <br>
 <br>
 <br>

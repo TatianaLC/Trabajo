@@ -12,15 +12,15 @@ De lo contrario no tendria ningun descuento en la compra que realice la distribu
 *Si la compra es mayor a 5 libros tendra un 5% de descuento.
 *Si la compra es mayor a 15 libros tendra un 15% de descuento.
 1.HISTORIA DE USUARIO
-![Historia de usuario](./img/HISTORIAL_usuario.PNG)
-![Historia de usuario](./img/HISTORIAL_usuario2.PNG)
-![Historia de usuario](./img/HISTORIAL_usuario3.PNG)
+![Historia de usuario](HISTORIAL_usuario.PNG)
+![Historia de usuario](HISTORIAL_usuario2.PNG)
+![Historia de usuario](HISTORIAL_usuario3.PNG)
 
 1.CASO DE USO
-![Caso de uso](./img/Caso_de_uso.PNG)
+![Caso de uso](Caso_de_uso.PNG)
 
 1.DIAGRAMA DE FLUJO
-![Caso de uso](./img/diagrama_flujo.png)
+![Caso de uso](diagrama_flujo.png)
 
 1.SEUDOCÒDIGO
 [Seudocodigo](Planeta_editoriapseint.psc)
